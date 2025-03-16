@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/pkondrathome85/MSLearn_DevOps/_apis/build/status%2FBuild%20.NET%20Core%20Application?branchName=master)](https://dev.azure.com/pkondrathome85/MSLearn_DevOps/_build/latest?definitionId=26&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
